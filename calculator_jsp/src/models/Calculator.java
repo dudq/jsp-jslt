@@ -1,3 +1,5 @@
+package models;
+
 public class Calculator {
     public static float calculate(float firstOperand, float secondOperand, char operator) {
         switch (operator) {
